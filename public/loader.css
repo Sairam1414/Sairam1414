@@ -6,6 +6,9 @@
     height: 100%;
     z-index: 1000;
 }
+.summa{
+    background-color: #222222;
+}
 #loader {
     display: block;
     position: relative;
