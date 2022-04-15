@@ -3082,6 +3082,11 @@ ul {
     display: block !important;
     text-align: center;
   }
+  .logoimg{
+    padding-left: 93%;
+    padding-top: 70%;
+    size:1000px;
+  }
 }
 
 /* line 120, ../../01 cl html template/03_jun 2019/186_Gaiming_html/sass/_Latest_War.scss */
