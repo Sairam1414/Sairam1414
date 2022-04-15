@@ -8,4 +8,4 @@
 <code><img height="40" src="https://www.javatpoint.com/js/nodejs/images/node-js-tutorial.png"></code>
 <code><img height="40" src="https://www.javatpoint.com/jsonpages/images/json-tutorial.jpg"></code>
 <code><img height="40" src="https://static.javatpoint.com/tutorial/git/images/git-tutorial.png"></code>
-<br>- 🌱 I’m currently learning Java, ReactJS, Python
+<!-- <br>- 🌱 I’m currently learning Java, ReactJS, Python -->
