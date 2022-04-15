@@ -1,3 +1,4 @@
+<div style="text-align: center;">
 <h2>Hi I'm Sairam </h2>
 <p>I’m interested To learning Codes <br> i learning & learned </p> 
 <code><img height="45" src="https://static.javatpoint.com/csspages/images/css-tutorial.png"></code>
@@ -9,3 +10,4 @@
 <code><img height="40" src="https://www.javatpoint.com/jsonpages/images/json-tutorial.jpg"></code>
 <code><img height="40" src="https://static.javatpoint.com/tutorial/git/images/git-tutorial.png"></code>
 <!-- <br>- 🌱 I’m currently learning Java, ReactJS, Python -->
+</div>
