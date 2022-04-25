@@ -1,8 +1,6 @@
 {
   "hosting": {
     "site": "wecreationofficial",
-    "cleanUrls": true,
-    "trailingSlash": true,
     "public": "public",
     "ignore": [
       "firebase.json",
