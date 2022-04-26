@@ -1,17 +1,31 @@
 
-<h2>Hi I'm Sairam </h2>
+<h2 >Hi I'm Sairam </h2>
 <p>I’m interested To learning Codes <br> i learning & learned </p> 
 
-**Languages and Tools:**  
-<code><img height="45" src="https://static.javatpoint.com/csspages/images/css-tutorial.png"></code>
+**Languages:**  
 <code><img height="45" src="https://static.javatpoint.com/htmlpages/images/html-tutorial.png"></code>
-<code><img height="40" src="https://static.javatpoint.com/images/javascript/javascript_logo.png"></code>
+<code><img height="48" src="https://static.javatpoint.com/csspages/images/css-tutorial.png"></code>
+<code><img height="45" src="https://static.javatpoint.com/images/javascript/javascript_logo.png"></code>
+<code><img height="40" src="https://www.javatpoint.com/jsonpages/images/json-tutorial.jpg"></code>
+<code><img height="38" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png"></code>
+<code><img height="50" src="https://pngimg.com/uploads/mysql/mysql_PNG35.png"></code>
+
+<!-- <br>- 🌱 I’m currently learning Java, ReactJS, Python -->
+**Tools:**
+
 <code><img height="40" src="https://static.javatpoint.com/bootstrappages/images/bootstrap-tutorial.png"></code>
 <code><img height="40" src="https://static.javatpoint.com/jquerypages/images/jquery-tutorial.jpg"></code>
 <code><img height="40" src="https://www.javatpoint.com/js/nodejs/images/node-js-tutorial.png"></code>
-<code><img height="40" src="https://www.javatpoint.com/jsonpages/images/json-tutorial.jpg"></code>
 <code><img height="40" src="https://static.javatpoint.com/tutorial/git/images/git-tutorial.png"></code>
-<!-- <br>- 🌱 I’m currently learning Java, ReactJS, Python -->
+<code><img height="40" src="https://michalsnik.github.io/aos/img/github_octocat.png"></code>
+<code><img height="40" src="https://popper.js.org/static/popper-logo-394b4ea5914aad7fc580f418ed0cfb17.svg"></code>
+<code><img height="40" src="https://demos.creative-tim.com/now-ui-kit/assets/img/now-logo.png"></code>
+<code><img height="40" src="https://user-images.githubusercontent.com/96203481/165370265-d352708f-3aa7-48de-ac6f-01cfe0de6b83.png"></code>
+<code><img height="40" src="https://static.javatpoint.com/tutorial/firebase/images/firebase.png"></code>
+<code><img height="40" src="https://static.javatpoint.com/ms/excel/images/ms-excel.png"></code>
+<code><img height="40" src="https://static.javatpoint.com/tutorial/adobe-after-effect/images/adobe-after-effect.png"></code>
+<code><img height="40" src="https://static.javatpoint.com/tutorial/photoshop/images/photoshop.png"></code>
+<code><img height="40" src="https://static.javatpoint.com/tutorial/adobe-illustrator/images/adobe-illustrator.png"></code>
 
 
 <br><img src="https://github-readme-stats.vercel.app/api?username=Sairam1414&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
