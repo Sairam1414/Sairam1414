@@ -13,7 +13,7 @@
 <code><img height="38" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png"></code>
 <code><img height="50" src="https://pngimg.com/uploads/mysql/mysql_PNG35.png"></code>
 
-<!-- <br>- 🌱 I’m currently learning Java, ReactJS, Python -->
+
 **🔻Tools🔻**
 
 <code><img height="40" src="https://static.javatpoint.com/bootstrappages/images/bootstrap-tutorial.png"></code>
