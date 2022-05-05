@@ -21,7 +21,7 @@ I’m interested To learning Codes & Tools And Much More ! </p>
   <code><img height="38" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png"></code>
   <code><img height="50" src="https://pngimg.com/uploads/mysql/mysql_PNG35.png"></code> -->
 
-## <h5>API & FRAMEWORKS</h5>
+ <h5>API & FRAMEWORKS</h5>
 
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
@@ -38,7 +38,7 @@ I’m interested To learning Codes & Tools And Much More ! </p>
 <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white">
 
 
-## <h5>I USED IDE's</h5>
+<h5>I USED IDE's</h5>
 
 <img src="https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white">
 <img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white">
@@ -48,7 +48,7 @@ I’m interested To learning Codes & Tools And Much More ! </p>
 <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important">
 
 
-## <h5>DESIGN Tools</h5>
+ <h5>DESIGN Tools</h5>
 
 <img src="https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=393665">
 <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=393665">
@@ -61,6 +61,7 @@ I’m interested To learning Codes & Tools And Much More ! </p>
 <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
 <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white">
 <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white">
+
 
 <br><img src="https://github-readme-stats.vercel.app/api?username=Sairam1414&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
